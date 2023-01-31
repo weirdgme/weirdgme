@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Windows, Linux and Containers solutions/projects**
 
-- 🌱 I’m currently learning **Something Always*
+- 🌱 I’m currently learning **Something Always**
 
 - 👯 I’m looking to collaborate on **Anything Cloud & DevOps related**
 

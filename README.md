@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **AWS, AZURE, CLOUD, DEVOPS, SRE**
 
-- 📫 How to reach me **weirdgme@gmail.com**
+- 📫 How to reach me **jimiumar1@gmail.com**
 
 - ⚡ Fun fact **I like to play adventure and shooting games**
 

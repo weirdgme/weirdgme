@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jimi</h1>
-<h3 align="center">A Cloud/DevOps Engineer/Architect based in Dallas (United States)</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A Cloud/DevOps Engineer/Architect</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weirdgme&label=Profile%20views&color=0e75b6&style=flat" alt="weirdgme" /> </p>
@@ -15,8 +15,6 @@
 - 📝 I regularly write articles on Cloud/DevOps concepts
 
 - 💬 Ask me about **AWS, AZURE, CLOUD, DEVOPS, SRE**
-
-- 📫 How to reach me **jimiumar1@gmail.com**
 
 - ⚡ Fun fact **I like to play adventure and shooting games**
 
